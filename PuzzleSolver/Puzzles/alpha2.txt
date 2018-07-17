@@ -1,0 +1,29 @@
+## alpha cipher ##
+accord 68
+astra 61
+beetle 89
+capri 46
+civic 37
+clio 37
+clubman 56
+corsa 50
+cortina 73
+elise 58
+fiesta 81
+focus 70
+galaxy 79
+golf 71
+insignia 53
+jazz 52
+ka 15
+octavia 64
+phantom 58
+polo 48
+prius 68
+punto 69
+qashqai 34
+swift 86
+uno 31
+yaris 63
+zafira 75
+?? c6 l16 t26 ??

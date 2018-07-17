@@ -1,0 +1,26 @@
+## alpha cipher ##
+album 36
+almanac 40
+bill 39
+book 46
+booklet 79
+brochure 62
+codex 72
+essay 92
+journal 58
+leaflet 69
+magazine 71
+manual 41
+note 46
+novel 37
+page 44
+pamphlet 86
+paper 46
+quarto 61
+sheet 78
+text 67
+tome 42
+tract 46
+volume 45
+work 43
+?? v3 l5 m6 ??

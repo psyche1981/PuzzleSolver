@@ -1,0 +1,29 @@
+## alpha cipher ##
+dragon 60
+elf 34
+fairy 69
+faun 54
+genie 27
+gnome 29
+goblin 66
+golem 38
+gorgon 52
+griffin 86
+harpy 71
+hydra 78
+jackalope 93
+kelpie 43
+mermaid 70
+naiad 45
+nixie 56
+ogre 36
+pixie 60
+qiqirn 50
+roc 52
+satyr 78
+siren 52
+sprite 81
+vampire 64
+wyvern 61
+zombie 71
+?? p9 s13 f17 ??
